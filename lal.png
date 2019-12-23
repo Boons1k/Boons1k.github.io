@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="ru-RU" class="no-js"  itemscope itemtype="https://schema.org/Blog">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="">
+<title>21 великолепный эффект анимации бекграунда (фона) сайта - PT-Blog.ru</title>
+<!-- This site is optimized with the Yoast SEO plugin v12.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Дизайнеры и разработчики знают, что фоны (бекграунды) являются одним из самых важных аспектов дизайна и ощущения веб-страницы. Анимация фона (бекграунда) страницы добавляет визуальный эффект и повышает интерес пользователя."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="21 великолепный эффект анимации бекграунда (фона) сайта - PT-Blog.ru" />
+<meta property="og:description" content="Дизайнеры и разработчики знают, что фоны (бекграунды) являются одним из самых важных аспектов дизайна и ощущения веб-страницы. Анимация фона (бекграунда) страницы добавляет визуальный эффект и повышает интерес пользователя." />
+<meta property="og:url" content="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/" />
+<meta property="og:site_name" content="PT-Blog.ru" />
+<meta property="article:publisher" content="https://www.facebook.com/pavel.tasits" />
+<meta property="article:author" content="https://www.facebook.com/pavel.tasits" />
+<meta property="article:tag" content="HTML" />
+<meta property="article:tag" content="вдохновение" />
+<meta property="article:tag" content="дизайн" />
+<meta property="article:tag" content="полезности" />
+<meta property="article:tag" content="программирование" />
+<meta property="article:tag" content="сделай сам" />
+<meta property="article:section" content="Веб-дизайн" />
+<meta property="article:published_time" content="2018-05-03T07:30:21+00:00" />
+<meta property="article:modified_time" content="2018-12-24T06:05:01+00:00" />
+<meta property="og:updated_time" content="2018-12-24T06:05:01+00:00" />
+<meta property="og:image" content="https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта.png" />
+<meta property="og:image:secure_url" content="https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта.png" />
+<meta property="og:image:width" content="1078" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Дизайнеры и разработчики знают, что фоны (бекграунды) являются одним из самых важных аспектов дизайна и ощущения веб-страницы. Анимация фона (бекграунда) страницы добавляет визуальный эффект и повышает интерес пользователя." />
+<meta name="twitter:title" content="21 великолепный эффект анимации бекграунда (фона) сайта - PT-Blog.ru" />
+<meta name="twitter:site" content="@PavelTasits" />
+<meta name="twitter:image" content="https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта.png" />
+<meta name="twitter:creator" content="@PavelTasits" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://pt-blog.ru/#website","url":"https://pt-blog.ru/","name":"PT-Blog.ru","description":"\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d, SEO, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433","potentialAction":{"@type":"SearchAction","target":"https://pt-blog.ru/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/#primaryimage","url":"https://pt-blog.ru/wp-content/uploads/2018/05/21-\u0432\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u044b\u0439-\u044d\u0444\u0444\u0435\u043a\u0442-\u0430\u043d\u0438\u043c\u0430\u0446\u0438\u0438-\u0431\u0435\u043a\u0433\u0440\u0430\u0443\u043d\u0434\u0430-\u0444\u043e\u043d\u0430-\u0441\u0430\u0439\u0442\u0430.png","width":"1078","height":"1080"},{"@type":"WebPage","@id":"https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/#webpage","url":"https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/","inLanguage":"ru-RU","name":"21 \u0432\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0430\u043d\u0438\u043c\u0430\u0446\u0438\u0438 \u0431\u0435\u043a\u0433\u0440\u0430\u0443\u043d\u0434\u0430 (\u0444\u043e\u043d\u0430) \u0441\u0430\u0439\u0442\u0430 - PT-Blog.ru","isPartOf":{"@id":"https://pt-blog.ru/#website"},"primaryImageOfPage":{"@id":"https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/#primaryimage"},"datePublished":"2018-05-03T07:30:21+00:00","dateModified":"2018-12-24T06:05:01+00:00","author":{"@id":"https://pt-blog.ru/#/schema/person/27d7538f13b67f960fe2fb7b55b90f09"},"description":"\u0414\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u044b \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 \u0437\u043d\u0430\u044e\u0442, \u0447\u0442\u043e \u0444\u043e\u043d\u044b (\u0431\u0435\u043a\u0433\u0440\u0430\u0443\u043d\u0434\u044b) \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0432\u0430\u0436\u043d\u044b\u0445 \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u0432 \u0434\u0438\u0437\u0430\u0439\u043d\u0430 \u0438 \u043e\u0449\u0443\u0449\u0435\u043d\u0438\u044f \u0432\u0435\u0431-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b. \u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0444\u043e\u043d\u0430 (\u0431\u0435\u043a\u0433\u0440\u0430\u0443\u043d\u0434\u0430) \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u0432\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f."},{"@type":["Person"],"@id":"https://pt-blog.ru/#/schema/person/27d7538f13b67f960fe2fb7b55b90f09","name":"admin","image":{"@type":"ImageObject","@id":"https://pt-blog.ru/#authorlogo","url":"https://secure.gravatar.com/avatar/1abb8dca4c9404dbd90890229f4c5e9b?s=96&d=wavatar&r=g","caption":"admin"},"sameAs":["https://www.facebook.com/pavel.tasits","https://twitter.com/PavelTasits"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PT-Blog.ru &raquo; Лента" href="https://pt-blog.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PT-Blog.ru &raquo; Лента комментариев" href="https://pt-blog.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PT-Blog.ru &raquo; Лента комментариев к &laquo;21 великолепный эффект анимации бекграунда (фона) сайта&raquo;" href="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pt-blog.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3"}};
+!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wprpi_css-css'  href='https://pt-blog.ru/wp-content/plugins/wp-random-post-inside//css/style.css?ver=5.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//pt-blog.ru/wp-content/cache/wpfc-minified/laynzfbo/fqru0.css" media="all"/>
+<link rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.3/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='fb_data_style-css'  href='https://pt-blog.ru/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=5.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//pt-blog.ru/wp-content/cache/wpfc-minified/oeeh3h/fqru0.css" media="all"/>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.3/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='eds-bpm-mosaic-css-css'  href='https://pt-blog.ru/wp-content/plugins/portfolio-manager-powered-by-behance/classes/../css/mosaic_style.css?ver=5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='eds-bpm-site-css-css'  href='https://pt-blog.ru/wp-content/plugins/portfolio-manager-powered-by-behance/classes/../css/eds-bpm-site.css?ver=5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='eds-bpm-project-view-css'  href='https://pt-blog.ru/wp-content/plugins/portfolio-manager-powered-by-behance/classes/../css/project_view.css?ver=5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='material-design-css'  href='https://pt-blog.ru/wp-content/plugins/portfolio-manager-powered-by-behance/classes/../css/material-design-iconic-font.min.css?ver=5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='toc-screen-css'  href='https://pt-blog.ru/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='northeast-bootstrap-style-css'  href='https://pt-blog.ru/wp-content/themes/north-east/assets/bootstrap/css/bootstrap.min.css?ver=5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='northeast-style-css'  href='https://pt-blog.ru/wp-content/themes/north-east/style.css?ver=5.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='northeast-fontawesome-css'  href='https://pt-blog.ru/wp-content/themes/north-east/assets/custom/css/font-awesome.min.css?ver=5.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//pt-blog.ru/wp-content/cache/wpfc-minified/2p6dk49p/fqru0.css" media="all"/>
+<link rel='stylesheet' id='northeast-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%7COpen+Sans%3A700italic%2C400%2C800%2C600&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;display=fallback&#038;ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/7.9.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.3/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.3/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.9.1/_inc/build/related-posts/related-posts.min.js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://pt-blog.ru/wp-content/themes/north-east/js/html5.js?ver=5.3'></script>
+<![endif]-->
+<script src='//pt-blog.ru/wp-content/cache/wpfc-minified/1zz2z7nx/fqru0.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://pt-blog.ru/wp-content/themes/north-east/assets/bootstrap/js/bootstrap.min.js?ver=5.3'></script> -->
+<!-- <script type='text/javascript' src='https://pt-blog.ru/wp-content/themes/north-east/assets/custom/js/custom.js?ver=5.3'></script> -->
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.9.1/_inc/build/postmessage.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.9.1/_inc/build/jquery.jetpack-resize.min.js'></script>
+<link rel='https://api.w.org/' href='https://pt-blog.ru/wp-json/' />
+<meta name="generator" content="WordPress 5.3" />
+<link rel='shortlink' href='https://wp.me/p7RDgD-1Mj' />
+<link rel="alternate" type="application/json+oembed" href="https://pt-blog.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpt-blog.ru%2F21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://pt-blog.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpt-blog.ru%2F21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta%2F&#038;format=xml" />
+<style type="text/css">
+.wp_random_inside span, .wp_random_inside a {
+color: #0053f9 !important;
+}
+.wp_random_inside a:hover {
+color: #02cd9b !important;
+}</style><style type="text/css">
+.wprpi_post_box {
+background: #eeee22;
+padding: 7px;
+border-radius: 3px;
+margin-bottom: 20px;
+}
+.wprpi_title {
+border-bottom: 1px solid;
+}
+</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style>			<style type="text/css">
+/* If html does not have either class, do not show lazy loaded images. */
+html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+display: none;
+}
+</style>
+<script>
+document.documentElement.classList.add(
+'jetpack-lazy-images-js-enabled'
+);
+</script>
+<link rel="icon" href="https://pt-blog.ru/wp-content/uploads/2017/01/cropped-123124-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pt-blog.ru/wp-content/uploads/2017/01/cropped-123124-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pt-blog.ru/wp-content/uploads/2017/01/cropped-123124-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pt-blog.ru/wp-content/uploads/2017/01/cropped-123124-270x270.png" />
+<style type="text/css" id="wp-custom-css">
+a {color:#0000ff}			</style>
+<style>
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300,100&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+<script type="text/javascript"> rbConfig={start:performance.now()}; </script>
+<script type="text/javascript"> rbConfig={start:performance.now(),rotator:'1whum'}; </script>
+<script async="async" type="text/javascript" src="//any.realbig.media/1whum.min.js"></script>
+<script charset="utf-8" async src="https://realpush.media/pushJs/gbKpxkkf.js"></script>
+</head>
+<body 
+id="blog" class="post-template-default single single-post postid-6839 single-format-standard">  
+<div id="wptime-plugin-preloader"></div>
+<!--facebook like-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=1607097276249383";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--facebook like-->
+<!-- d1ff817701eecc79 -->
+<!--.main_container-->
+<div class="main_container">
+<script type="application/ld+json">
+{
+"@context" : "https://schema.org",
+"@type" : "Organization",
+"name" : "PT-Blog.ru",
+"url" : "https://www.pt-blog.ru",
+"sameAs" : [
+"https://twitter.com/PavelTasits",
+"https://plus.google.com/u/0/113067886247005915542",
+"https://www.facebook.com/ptblogru"
+]
+}
+</script>
+<!--header wrapper Start Here-->
+<header class="header_wrapper" itemscope itemtype="https://schema.org/WPHeader">
+<div class="container">
+<div class="row">
+<div id="logo">
+<a href="https://pt-blog.ru/" rel="home">
+<div align="center" class=""><img title="PT-Blog" alt="logo" src="/wp-content/uploads/2019/04/PT.jpg"/></div>
+</a>   
+</div>
+</div>
+</div>          
+<div class="container no-padding">
+<div id="primary_menu" class="gray_bg">
+<nav id="primary-menu" class="main-navigation navmenu container" role="navigation">
+<ul itemscope itemtype="https://schema.org/SiteNavigationElement" id="menu-menu-1" class="menu"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32"><a href="https://pt-blog.ru/" itemprop="url" ><span itemprop="name">Главная</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-34"><a href="https://pt-blog.ru/web-design/" itemprop="url" ><span itemprop="name">Веб-дизайн</span></a></li>
+<li id="menu-item-3456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3456"><a href="https://pt-blog.ru/video/" itemprop="url" ><span itemprop="name">Видео</span></a></li>
+<li id="menu-item-4164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4164"><a href="https://pt-blog.ru/novichkam/" itemprop="url" ><span itemprop="name">Новичкам</span></a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-74"><a href="https://pt-blog.ru/marketing/" itemprop="url" ><span itemprop="name">Маркетинг</span></a>
+<ul class="sub-menu">
+<li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106"><a href="https://pt-blog.ru/biznes/" itemprop="url" ><span itemprop="name">Бизнес</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2676" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2676"><a href="https://pt-blog.ru/freebie/" itemprop="url" ><span itemprop="name">Полезности</span></a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-172"><a href="https://pt-blog.ru/obo-vsem/" itemprop="url" ><span itemprop="name">Обо всем</span></a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://pt-blog.ru/o-bloge/" itemprop="url" ><span itemprop="name">О блоге</span></a></li>
+<li id="menu-item-6744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6744"><a href="https://pt-blog.ru/portfolio/" itemprop="url" ><span itemprop="name">Портфолио</span></a></li>
+</ul>                                                                    
+</nav><!-- #primary_menu -->
+</div>    
+</div>
+</header>
+<!--header wrapper End Here-->
+<div class="clearboth"></div>
+<!-- BreadCrumbs -->
+<div class="breadcrumbs">
+<div class="container">
+<div class="row">
+<div id="breadcrumbs" itemprop="breadcrumb"><a href="https://pt-blog.ru">Главная</a> &raquo; <a href="https://pt-blog.ru/web-design/">Веб-дизайн</a> &raquo; <span class="current">21 великолепный эффект анимации бекграунда (фона) сайта</span></div>                       </div>
+</div>
+</div>
+<!--Middle wrapper Start Here--> 
+<div class="middle_wrapper">
+<div class="container no-padding">
+<div class="row">
+<div class="content-wrapper"> 	
+<div class="col-md-8 col-sm-12 no-padding">
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+<div class='code-block code-block-4' style='margin: 8px 0; clear: both;'>
+<div id="content_rb_25696" class="content_rb" data-id="25696"></div></div>
+<article class="col-md-12" id="post-6839" itemscope="" itemtype="http://schema.org/BlogPosting">
+<header class="entry-header">
+<div class="clearboth"></div>
+<div class="post-thumbnail">
+<img width="1009" height="1011" src="https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта-1022x1024.png" class="attachment-large size-large wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта-1022x1024.png 1022w, https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта-150x150.png 150w, https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта-300x300.png 300w, https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта-768x769.png 768w, https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта.png 1078w" data-lazy-sizes="(max-width: 1009px) 100vw, 1009px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта-1022x1024.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</div><!-- .post-thumbnail -->
+</header><!-- .entry-header -->
+<div class="entry-content">
+<div class="header">
+<span class="category" itemprop="articleSection"><a href="https://pt-blog.ru/web-design/" rel="category tag">Веб-дизайн</a> <a href="https://pt-blog.ru/freebie/" rel="category tag">Полезности</a></span><span class="date"><i class="fa fa-clock-o"></i> <a href="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/" title="07:30" rel="bookmark"><time itemprop="datePublished" datetime="2018-05-03T07:30:21+00:00">Май 3, 2018</time></a></span><span itemprop="author"><i class="fa fa-user"></i> <span class="author"><a href="https://pt-blog.ru/author/admin/" title="Посмотреть все записи admin" rel="">admin</a></span></span> <span class="comments" itemprop="interactionCount"> <i class="fa fa-comment"></i><a href="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/#respond" title="0 Комментариев" rel="comments">0 Комментариев</a></span><span class="tags"> <i class="fa fa-tags"></i> <a href="https://pt-blog.ru/tag/html/" rel="tag">HTML</a>, <a href="https://pt-blog.ru/tag/vdoxnovenie/" rel="tag">вдохновение</a>, <a href="https://pt-blog.ru/tag/dizajn/" rel="tag">дизайн</a>, <a href="https://pt-blog.ru/tag/poleznosti/" rel="tag">полезности</a>, <a href="https://pt-blog.ru/tag/programmirovanie/" rel="tag">программирование</a>, <a href="https://pt-blog.ru/tag/sdelaj-sam/" rel="tag">сделай сам</a></span> 
+<div class="clearboth height10"></div>
+<h1 class="entry-title" itemprop="headline">21 великолепный эффект анимации бекграунда (фона) сайта</h1>    
+</div>
+<div class='code-block code-block-1' style='margin: 8px 0; clear: both;'>
+<div id="content_rb_25691" class="content_rb" data-id="25691"></div></div>
+<p>Дизайнеры и разработчики знают, что фоны (бекграунды) являются одним из самых важных аспектов дизайна и ощущения веб-страницы. Анимация фона (бекграунда) страницы добавляет визуальный эффект и повышает интерес пользователя.</p>
+<p>Также анимированные бекграунды (фоны) используются для выделения функциональных, навигационных элементов сайта.</p>
+<p>Поэтому для вашего вдохновения в этой статье собрано 21 великолепный пример эффектов анимации фона сайта.</p>
+<div id="toc_container" class="no_bullets"><p class="toc_title">Содержание</p><ul class="toc_list"><li><a href="#Sakura"><span class="toc_number toc_depth_1">1</span> Sakura</a></li><li><a href="#Rain_Effect"><span class="toc_number toc_depth_1">2</span> Rain Effect</a></li><li><a href="#Interactive_mosaic_background"><span class="toc_number toc_depth_1">3</span> Interactive mosaic background</a></li><li><a href="#Color_Changing"><span class="toc_number toc_depth_1">4</span> Color Changing</a></li><li><a href="#Wave_Animation"><span class="toc_number toc_depth_1">5</span> Wave Animation</a></li><li><a href="#Landscape_animation_experiment"><span class="toc_number toc_depth_1">6</span> Landscape animation experiment</a></li><li><a href="#Animated_Background_Header"><span class="toc_number toc_depth_1">7</span> Animated Background Header</a></li><li><a href="#Floating_Cloud_Background"><span class="toc_number toc_depth_1">8</span> Floating Cloud Background</a></li><li><a href="#Parallax_Star_background_in_CSS"><span class="toc_number toc_depth_1">9</span> Parallax Star background in CSS</a></li><li><a href="#Pure_CSS3_Gradient_Background_Animation"><span class="toc_number toc_depth_1">10</span> Pure CSS3 Gradient Background Animation</a></li><li><a href="#Canvas_Parallax_Skyline"><span class="toc_number toc_depth_1">11</span> Canvas Parallax Skyline</a></li><li><a href="#Jquery_CSS3_background"><span class="toc_number toc_depth_1">12</span> Jquery &amp; CSS3 background</a></li><li><a href="#Parallax_backgrounds_with_walk_cycle"><span class="toc_number toc_depth_1">13</span> Parallax backgrounds with walk cycle</a></li><li><a href="#Misty"><span class="toc_number toc_depth_1">14</span> Misty</a></li><li><a href="#Lowpoly_Dynamic"><span class="toc_number toc_depth_1">15</span> Lowpoly Dynamic</a></li><li><a href="#Clean_Slider_With_Curved_Background"><span class="toc_number toc_depth_1">16</span> Clean Slider With Curved Background</a></li><li><a href="#Change_background_colour_with_fade_animation_as_you_scroll"><span class="toc_number toc_depth_1">17</span> Change background colour with fade animation as you scroll</a></li><li><a href="#Ambient"><span class="toc_number toc_depth_1">18</span> Ambient</a></li><li><a href="#Particles"><span class="toc_number toc_depth_1">19</span> Particles</a></li><li><a href="#Scrolling_Terrain_and_Shooting_Stars"><span class="toc_number toc_depth_1">20</span> Scrolling Terrain and Shooting Stars</a></li><li><a href="#Crystal_Caves"><span class="toc_number toc_depth_1">21</span> Crystal Caves</a><ul><li><a href="#i"><span class="toc_number toc_depth_2">21.1</span> ЭТО ИНТЕРЕСНО!</a></li></ul></li></ul></div>
+<h2><span id="Sakura">Sakura</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/at80/pen/tqdmv"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6840 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/1.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="391" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/1.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/1-300x170.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/1.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6840 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/1.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="391" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/1.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/1-300x170.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Rain_Effect">Rain Effect<a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/arickle/pen/XKjMZY"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6841 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/2.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="359" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/2.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/2-300x156.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/2.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6841 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/2.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="359" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/2.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/2-300x156.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></span></h2>
+<h2><span id="Interactive_mosaic_background">Interactive mosaic background</span></h2>
+<h1><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/xposedbones/pen/XXpgpj"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6842 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/3.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="377" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/3.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/3-300x164.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/3.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6842 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/3.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="377" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/3.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/3-300x164.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></h1>
+<h2><span id="Color_Changing">Color Changing</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/alexzaworski/pen/mEkvAG"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6843 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/4.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="388" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/4.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/4-300x169.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/4.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6843 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/4.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="388" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/4.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/4-300x169.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Wave_Animation">Wave Animation</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/plavookac/pen/QMwObb"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6844 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/5.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/5.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/5-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/5.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6844 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/5.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/5.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/5-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Landscape_animation_experiment">Landscape animation experiment</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/dropside/pen/MYGKyj"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6845 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/6.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="388" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/6.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/6-300x169.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/6.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6845 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/6.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="388" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/6.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/6-300x169.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Animated_Background_Header">Animated Background Header</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/jasperlachance/pen/QNMwBg"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6846 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/7.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/7.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/7-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/7.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6846 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/7.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/7.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/7-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p><div class='code-block code-block-6' style='margin: 8px 0; clear: both;'>
+<div id="content_rb_25698" class="content_rb" data-id="25698"></div></div>
+<h2><span id="Floating_Cloud_Background">Floating Cloud Background</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/shshaw/pen/DxJka"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6847 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/8.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/8.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/8-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/8.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6847 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/8.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/8.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/8-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Parallax_Star_background_in_CSS">Parallax Star background in CSS</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/saransh/pen/BKJun"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6848 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/9.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="385" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/9.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/9-300x167.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/9.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6848 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/9.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="385" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/9.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/9-300x167.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Pure_CSS3_Gradient_Background_Animation">Pure CSS3 Gradient Background Animation</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/P1N2O/pen/pyBNzX"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6849 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/10.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/10.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/10-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/10.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6849 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/10.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/10.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/10-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Canvas_Parallax_Skyline">Canvas Parallax Skyline</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/jackrugile/pen/qLCuE"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6850 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/11.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/11.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/11-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/11.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6850 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/11.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/11.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/11-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a><div class="wp_random_inside"><span class="dashicons dashicons-admin-links"></span> <a href="https://pt-blog.ru/dizajn-internet-magazina/">Дизайн интернет-магазина</a></div>
+<h2><span id="Jquery_CSS3_background">Jquery &amp; CSS3 background</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/tonx/pen/dteFo"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6851 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/12.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/12.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/12-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/12.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6851 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/12.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/12.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/12-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Parallax_backgrounds_with_walk_cycle">Parallax backgrounds with walk cycle</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/rachelnabors/pen/AvGhp"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6852 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/13.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="389" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/13.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/13-300x169.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/13.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6852 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/13.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="389" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/13.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/13-300x169.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Misty">Misty</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/AdrienBachmann/pen/YXXyWL"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6853 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/14.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/14.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/14-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/14.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6853 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/14.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/14.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/14-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Lowpoly_Dynamic">Lowpoly Dynamic</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/nodws/pen/YPgZao"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6854 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/15.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/15.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/15-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/15.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6854 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/15.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/15.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/15-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Clean_Slider_With_Curved_Background">Clean Slider With Curved Background</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/mrspok407/pen/NRxBWa"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6855 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/16.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="392" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/16.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/16-300x170.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/16.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6855 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/16.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="392" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/16.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/16-300x170.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Change_background_colour_with_fade_animation_as_you_scroll">Change background colour with fade animation as you scroll</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/daveredfern/pen/zBGBJV"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6856 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/17.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="394" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/17.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/17-300x171.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/17.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6856 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/17.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="394" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/17.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/17-300x171.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Ambient">Ambient</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/mimikos/pen/wKqyqY"  target="_blank" rel="noopener"><img class="aligncenter wp-image-6857 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/18.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/18.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/18-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/18.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6857 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/18.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/18.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/18-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Particles">Particles</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/deathfang/pen/WxNVoq"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6858 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/19.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="387" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/19.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/19-300x168.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/19.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6858 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/19.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="387" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/19.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/19-300x168.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Scrolling_Terrain_and_Shooting_Stars">Scrolling Terrain and Shooting Stars</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/loktar00/pen/uEJKl"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6859 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/20.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/20.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/20-300x176.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/20.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6859 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/20.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="404" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/20.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/20-300x176.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<h2><span id="Crystal_Caves">Crystal Caves</span></h2>
+<p><a target="_blank" rel="nofollow" href="https://pt-blog.ru/go/https://codepen.io/nosurprisethere/pen/yoEmQE"  target="_blank" rel="noopener" class="broken_link"><img class="aligncenter wp-image-6860 size-full jetpack-lazy-image" src="https://pt-blog.ru/wp-content/uploads/2018/05/21.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="390" data-lazy-srcset="https://pt-blog.ru/wp-content/uploads/2018/05/21.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/21-300x170.jpg 300w" data-lazy-sizes="(max-width: 690px) 100vw, 690px" data-lazy-src="https://pt-blog.ru/wp-content/uploads/2018/05/21.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter wp-image-6860 size-full" src="https://pt-blog.ru/wp-content/uploads/2018/05/21.jpg" alt="21 великолепный эффект анимации бекграунда (фона) сайта" width="690" height="390" srcset="https://pt-blog.ru/wp-content/uploads/2018/05/21.jpg 690w, https://pt-blog.ru/wp-content/uploads/2018/05/21-300x170.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></noscript></a></p>
+<div class="wp_random_inside"><span class="dashicons dashicons-admin-links"></span> <a href="https://pt-blog.ru/16-besplatnyx-tatu-shriftov-onlajn/">16 бесплатных тату шрифтов онлайн</a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+<h3 class="jp-relatedposts-headline"><span id="i"><em>ЭТО ИНТЕРЕСНО!</em></span></h3>
+</div><div class='code-block code-block-2 ai-viewport-1' style='margin: 8px 0; clear: both;'>
+<div id="content_rb_25693" class="content_rb" data-id="25693"></div></div>
+<footer class="entry-footer">
+</footer><!-- .entry-footer -->
+</div><!-- .entry-content -->
+<div class="clearboth"></div> 
+</article><!-- #post-## -->
+<div class="clearfix"></div>
+<div class="height30"></div>
+<div class="clearfix"></div>
+<div class="post-links">
+<div class="col-md-6" align="left"><strong> <i class="fa fa-angle-double-left"></i> <a href="https://pt-blog.ru/17-genialnyx-tipograficheskix-dizajnov-logotipov/" rel="next">17 гениальных типографических дизайнов логотипов</a></strong></div>
+<div class="col-md-6" align="right"><strong><a href="https://pt-blog.ru/14-css-raskryvayushhixsya-menyu/" rel="prev">14 CSS раскрывающихся меню</a> <i class="fa fa-angle-double-right"></i></strong></div>
+</div>
+<br>
+<br>
+<div class="jetpack_sub"> 
+<div class="jetpack_subscription_widget"><h2 class="widgettitle">Подпишитесь на обновления блога!</h2>
+<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-460">
+<div id="subscribe-text"><p>Будьте всегда в курсе новостей</p>
+</div>                    <p id="subscribe-email">
+<label id="jetpack-subscribe-label"
+class="screen-reader-text"
+for="subscribe-field-460">
+Email адрес                        </label>
+<input type="email" name="email" required="required" class="required"
+value=""
+id="subscribe-field-460"
+placeholder="Email адрес"/>
+</p>
+<p id="subscribe-submit">
+<input type="hidden" name="action" value="subscribe"/>
+<input type="hidden" name="source" value="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/"/>
+<input type="hidden" name="sub-type" value="widget"/>
+<input type="hidden" name="redirect_fragment" value="460"/>
+<button type="submit"
+name="jetpack_subscriptions_widget"
+>
+Подписаться                        </button>
+</p>
+</form>
+</div></div>
+<div id="comments" class="comments-area">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Добавить комментарий					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/#respond" style="display:none;">Отменить ответ</a></small>
+</h3>
+<form id="commentform" class="comment-form">
+<iframe title="Форма комментариев" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=116216683&#038;postid=6839&#038;comment_registration=0&#038;require_name_email=0&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=wavatar&#038;greeting=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9&#038;greeting_reply=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9+%D0%B4%D0%BB%D1%8F+%25s&#038;color_scheme=light&#038;lang=ru_RU&#038;jetpack_version=7.9.1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=618ae0c11ca772f3c71c7c70d714c191a1bbea0e#parent=https%3A%2F%2Fpt-blog.ru%2F21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta%2F" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+<!--[if !IE]><!-->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+for (var i = 0; i < commentForms.length; i++) {
+commentForms[i].allowTransparency = false;
+commentForms[i].scrolling = 'no';
+}
+});
+</script>
+<!--<![endif]-->
+</form>
+</div>
+<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+</div><!-- #comments .comments-area --><div class='code-block code-block-5' style='margin: 8px 0; clear: both;'>
+<div id="content_rb_25697" class="content_rb" data-id="25697"></div></div>
+</main><!-- .site-main -->
+</div><!-- .content-area -->
+</div><!-- .col -->  
+<!--Sidebar Section Start Here-->
+<div class="col-md-4 col-sm-12">
+<div class="sidebar">
+<aside id="search-2" class="widget widget_search"  itemscope itemtype="http://schema.org/WPSideBar"><h3 class="widget-title heading" itemprop="about">Поиск по сайту</h3><form role="search" method="get" class="search-form" action="https://pt-blog.ru/">
+<label>
+<span class="screen-reader-text">Найти:</span>
+<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit screen-reader-text" value="Поиск" />
+</form></aside><aside id="blog_subscription-2" class="widget widget_blog_subscription jetpack_subscription_widget"  itemscope itemtype="http://schema.org/WPSideBar"><h3 class="widget-title heading" itemprop="about">Будьте в курсе новостей!</h3>
+<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+<p id="subscribe-email">
+<label id="jetpack-subscribe-label"
+class="screen-reader-text"
+for="subscribe-field-blog_subscription-2">
+E-mail адрес                        </label>
+<input type="email" name="email" required="required" class="required"
+value=""
+id="subscribe-field-blog_subscription-2"
+placeholder="E-mail адрес"/>
+</p>
+<p id="subscribe-submit">
+<input type="hidden" name="action" value="subscribe"/>
+<input type="hidden" name="source" value="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/"/>
+<input type="hidden" name="sub-type" value="widget"/>
+<input type="hidden" name="redirect_fragment" value="blog_subscription-2"/>
+<button type="submit"
+name="jetpack_subscriptions_widget"
+>
+Подписаться                        </button>
+</p>
+</form>
+</aside><aside id="top-posts-2" class="widget widget_top-posts"  itemscope itemtype="http://schema.org/WPSideBar"><h3 class="widget-title heading" itemprop="about">Самые читаемые записи</h3><div class='widgets-grid-layout no-grav'>
+<div class="widget-grid-view-image">
+<a href="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/" title="21 великолепный эффект анимации бекграунда (фона) сайта" class="bump-view" data-bump-view="tp" aria-current="page"><img width="200" height="200" src="https://i0.wp.com/pt-blog.ru/wp-content/uploads/2018/05/21-великолепный-эффект-анимации-бекграунда-фона-сайта.png?resize=200%2C200&#038;ssl=1" alt="21 великолепный эффект анимации бекграунда (фона) сайта" data-pin-nopin="true"/></a>						</div>
+<div class="widget-grid-view-image">
+<a href="https://pt-blog.ru/25-primerov-css-animacii-knopki-2018/" title="25 примеров CSS анимации кнопки" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/pt-blog.ru/wp-content/uploads/2018/03/25-примеров-CSS-анимации-кнопки-2018.png?resize=200%2C200&#038;ssl=1" alt="25 примеров CSS анимации кнопки" data-pin-nopin="true"/></a>						</div>
+<div class="widget-grid-view-image">
+<a href="https://pt-blog.ru/34-primera-css-animacii-teksta-i-izobrazheniya/" title="34 примера CSS анимации текста и изображения" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/pt-blog.ru/wp-content/uploads/2017/09/34-примера-CSS-анимации-текста-и-изображения.png?resize=200%2C200&#038;ssl=1" alt="34 примера CSS анимации текста и изображения" data-pin-nopin="true"/></a>						</div>
+<div class="widget-grid-view-image">
+<a href="https://pt-blog.ru/razrabotka-progressive-web-apps-v-germanii/" title="Разработка Progressive Web Apps в Германии" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i1.wp.com/pt-blog.ru/wp-content/uploads/2019/11/Progressive-Web-Apps.png?resize=200%2C200&#038;ssl=1" alt="Разработка Progressive Web Apps в Германии" data-pin-nopin="true"/></a>						</div>
+<div class="widget-grid-view-image">
+<a href="https://pt-blog.ru/19-mokapov-dizajna-vizitnoj-kartochki/" title="19 мокапов дизайна визитной карточки" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/pt-blog.ru/wp-content/uploads/2017/06/19-мокапов-дизайна-визитной-карточки.png?resize=200%2C200&#038;ssl=1" alt="19 мокапов дизайна визитной карточки" data-pin-nopin="true"/></a>						</div>
+<div class="widget-grid-view-image">
+<a href="https://pt-blog.ru/20-kreativnyx-css-perexodov-stranic/" title="20 креативных CSS переходов страниц" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i2.wp.com/pt-blog.ru/wp-content/uploads/2017/11/20-креативных-CSS-переходов-страниц.png?resize=200%2C200&#038;ssl=1" alt="20 креативных CSS переходов страниц" data-pin-nopin="true"/></a>						</div>
+</div>
+</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"  itemscope itemtype="http://schema.org/WPSideBar"><h3 class="widget-title heading" itemprop="about">Метки</h3><div class="tagcloud"><a href="https://pt-blog.ru/tag/ai/" class="tag-cloud-link tag-link-52 tag-link-position-1" style="font-size: 12.747826086957pt;" aria-label="Ai (11 элементов)">Ai</a>
+<a href="https://pt-blog.ru/tag/html/" class="tag-cloud-link tag-link-27 tag-link-position-2" style="font-size: 15.547826086957pt;" aria-label="HTML (34 элемента)">HTML</a>
+<a href="https://pt-blog.ru/tag/psd/" class="tag-cloud-link tag-link-30 tag-link-position-3" style="font-size: 16.947826086957pt;" aria-label="PSD (58 элементов)">PSD</a>
+<a href="https://pt-blog.ru/tag/seo/" class="tag-cloud-link tag-link-9 tag-link-position-4" style="font-size: 14.695652173913pt;" aria-label="SEO (24 элемента)">SEO</a>
+<a href="https://pt-blog.ru/tag/sketch/" class="tag-cloud-link tag-link-31 tag-link-position-5" style="font-size: 12.504347826087pt;" aria-label="sketch (10 элементов)">sketch</a>
+<a href="https://pt-blog.ru/tag/smm/" class="tag-cloud-link tag-link-10 tag-link-position-6" style="font-size: 8pt;" aria-label="smm (1 элемент)">smm</a>
+<a href="https://pt-blog.ru/tag/wordpress/" class="tag-cloud-link tag-link-29 tag-link-position-7" style="font-size: 12.260869565217pt;" aria-label="wordpress (9 элементов)">wordpress</a>
+<a href="https://pt-blog.ru/tag/biznes/" class="tag-cloud-link tag-link-12 tag-link-position-8" style="font-size: 15.973913043478pt;" aria-label="бизнес (40 элементов)">бизнес</a>
+<a href="https://pt-blog.ru/tag/vdoxnovenie/" class="tag-cloud-link tag-link-24 tag-link-position-9" style="font-size: 19.869565217391pt;" aria-label="вдохновение (176 элементов)">вдохновение</a>
+<a href="https://pt-blog.ru/tag/video/" class="tag-cloud-link tag-link-33 tag-link-position-10" style="font-size: 8pt;" aria-label="видео (1 элемент)">видео</a>
+<a href="https://pt-blog.ru/tag/grafika/" class="tag-cloud-link tag-link-28 tag-link-position-11" style="font-size: 15pt;" aria-label="графика (27 элементов)">графика</a>
+<a href="https://pt-blog.ru/tag/dizajn/" class="tag-cloud-link tag-link-5 tag-link-position-12" style="font-size: 22pt;" aria-label="дизайн (399 элементов)">дизайн</a>
+<a href="https://pt-blog.ru/tag/kisti/" class="tag-cloud-link tag-link-50 tag-link-position-13" style="font-size: 11.347826086957pt;" aria-label="кисти (6 элементов)">кисти</a>
+<a href="https://pt-blog.ru/tag/kontent/" class="tag-cloud-link tag-link-19 tag-link-position-14" style="font-size: 16.278260869565pt;" aria-label="контент (45 элементов)">контент</a>
+<a href="https://pt-blog.ru/tag/logotip/" class="tag-cloud-link tag-link-16 tag-link-position-15" style="font-size: 13.478260869565pt;" aria-label="логотип (15 элементов)">логотип</a>
+<a href="https://pt-blog.ru/tag/marketing/" class="tag-cloud-link tag-link-14 tag-link-position-16" style="font-size: 17.678260869565pt;" aria-label="маркетинг (76 элементов)">маркетинг</a>
+<a href="https://pt-blog.ru/tag/mokapy/" class="tag-cloud-link tag-link-49 tag-link-position-17" style="font-size: 15.852173913043pt;" aria-label="мокапы (38 элементов)">мокапы</a>
+<a href="https://pt-blog.ru/tag/novosti/" class="tag-cloud-link tag-link-22 tag-link-position-18" style="font-size: 9.8260869565217pt;" aria-label="новости (3 элемента)">новости</a>
+<a href="https://pt-blog.ru/tag/poleznosti/" class="tag-cloud-link tag-link-26 tag-link-position-19" style="font-size: 18.773913043478pt;" aria-label="полезности (117 элементов)">полезности</a>
+<a href="https://pt-blog.ru/tag/programmirovanie/" class="tag-cloud-link tag-link-23 tag-link-position-20" style="font-size: 15.852173913043pt;" aria-label="программирование (38 элементов)">программирование</a>
+<a href="https://pt-blog.ru/tag/sdelaj-sam/" class="tag-cloud-link tag-link-18 tag-link-position-21" style="font-size: 15.182608695652pt;" aria-label="сделай сам (29 элементов)">сделай сам</a>
+<a href="https://pt-blog.ru/tag/tekstury/" class="tag-cloud-link tag-link-34 tag-link-position-22" style="font-size: 13.173913043478pt;" aria-label="текстуры (13 элементов)">текстуры</a>
+<a href="https://pt-blog.ru/tag/frilans/" class="tag-cloud-link tag-link-13 tag-link-position-23" style="font-size: 9.8260869565217pt;" aria-label="фриланс (3 элемента)">фриланс</a>
+<a href="https://pt-blog.ru/tag/xosting/" class="tag-cloud-link tag-link-15 tag-link-position-24" style="font-size: 8pt;" aria-label="хостинг (1 элемент)">хостинг</a>
+<a href="https://pt-blog.ru/tag/shrifty/" class="tag-cloud-link tag-link-6 tag-link-position-25" style="font-size: 16.278260869565pt;" aria-label="шрифты (45 элементов)">шрифты</a></div>
+</aside><aside id="ai_widget-2" class="widget ai_widget"  itemscope itemtype="http://schema.org/WPSideBar"><div class='code-block code-block-3' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<div id="content_rb_25695" class="content_rb" data-id="25695"></div></div>
+</aside>            </div>     
+</div>
+<!--Sidebar Section End Here--> 
+<div class="clearfix"></div>     
+</div>  
+<br>
+<br>
+	 	</div> <!-- Row End here -->
+</div> <!--.container-->
+</div> <!--.middle_wrapper-->
+<!--Middle wrapper End Here-->  
+<!--Footer wrapper Start Here--> 
+<footer class="footer_wrapper" itemscope itemtype="https://schema.org/WPFooter">
+<div class="container">
+<div class="metrika" align=center>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter37989275 = new Ya.Metrika2({
+id:37989275,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/tag.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/37989275" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<noindex>
+<!--LiveInternet logo--><a href="//www.liveinternet.ru/click"
+target="_blank"><img src="//counter.yadro.ru/logo?58.6"
+title="LiveInternet"
+alt="" border="0" width="88" height="31"/></a><!--/LiveInternet-->
+</noindex>
+</div>
+<div class="clearboth"></div>
+</div><!--.container-->
+<div class="copy_right" align=center>         	
+<a href="https://pt-blog.ru/" align="center"> © 2016-2019 PT-Blog.ru - Блог о веб-дизайне, SEO и интернет-маркетинге</a>. По вопросам: <a href="mailto:yurykzn@yandex.ru">yurykzn@yandex.ru</a></div> 
+</div> 
+<!--Footer wrapper End Here--> 
+</footer> 	  
+</div>
+<!--.main_container end-->
+<div style="display:none">
+</div>
+<div class="top_btn">
+<a class="cd-top" href="#0"></a>
+</div><script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+w.__utlWdgt = true;
+var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+var h=d[g]('body')[0];
+h.appendChild(s);
+}})(window,document);
+</script>
+<div style="text-align:center;" data-lang="ru" data-url="https://pt-blog.ru/21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta/" data-background-alpha="0.0" data-buttons-color="#01cf9a" data-counter-background-color="#ffffff" data-share-counter-size="12" data-top-button="false" data-share-counter-type="separate" data-share-style="0" data-mode="share" data-follow-vk="ptblogru" data-like-text-enable="false" data-hover-effect="rotate-cw" data-mobile-view="true" data-icon-color="#ffffff" data-orientation="fixed-left" data-text-color="#000000" data-share-shape="rectangle" data-sn-ids="fb.vk.tw.gp.ps.lj." data-share-size="40" data-background-color="#ffffff" data-preview-mobile="false" data-mobile-sn-ids="fb.vk.tw.wh.ok.vb." data-pid="cmsptblogru" data-counter-background-alpha="1.0" data-following-enable="true" data-exclude-show-more="false" data-selection-enable="true" data-follow-fb="ptblogru" class="uptolike-buttons" ></div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201949'></script>
+<script type='text/javascript' src='https://pt-blog.ru/wp-content/plugins/portfolio-manager-powered-by-behance/classes/../js/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='https://pt-blog.ru/wp-content/plugins/portfolio-manager-powered-by-behance/classes/../js/eds-bpm-site.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u044c","visibility_hide":"\u0441\u043a\u0440\u044b\u0442\u044c","visibility_hide_by_default":"1","width":"Auto"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pt-blog.ru/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Decaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.9.1/modules/wpgroho.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.3/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://pt-blog.ru/wp-content/themes/north-east/assets/menu/script.js?ver=20150217'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"main-sidebar","margin_top":10,"margin_bottom":300,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["ai_widget-2"]}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pt-blog.ru/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.9.1/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.9.1/modules/likes/queuehandler.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.3/wp-includes/js/wp-embed.min.js'></script>
+<script async="async" type='text/javascript' src='https://pt-blog.ru/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3'></script>
+<!--[if IE]>
+<script type="text/javascript">
+if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+// window.location.reload() doesn't respect the Hash in IE
+window.location.hash = window.location.hash;
+}
+</script>
+<![endif]-->
+<script type="text/javascript">
+(function () {
+var comm_par_el = document.getElementById( 'comment_parent' ),
+comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+frame = document.getElementById( 'jetpack_remote_comment' ),
+tellFrameNewParent;
+tellFrameNewParent = function () {
+if ( comm_par ) {
+frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=116216683&postid=6839&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wavatar&greeting=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9&greeting_reply=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9+%D0%B4%D0%BB%D1%8F+%25s&color_scheme=light&lang=ru_RU&jetpack_version=7.9.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=618ae0c11ca772f3c71c7c70d714c191a1bbea0e#parent=https%3A%2F%2Fpt-blog.ru%2F21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+} else {
+frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=116216683&postid=6839&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wavatar&greeting=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9&greeting_reply=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9+%D0%B4%D0%BB%D1%8F+%25s&color_scheme=light&lang=ru_RU&jetpack_version=7.9.1&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=618ae0c11ca772f3c71c7c70d714c191a1bbea0e#parent=https%3A%2F%2Fpt-blog.ru%2F21-velikolepnyj-effekt-animacii-bekgraunda-fona-sajta%2F";
+}
+};
+if ( 'undefined' !== typeof addComment ) {
+addComment._Jetpack_moveForm = addComment.moveForm;
+addComment.moveForm = function ( commId, parentId, respondId, postId ) {
+var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ),
+cancelClick, cancel;
+if ( false === returnValue ) {
+cancel = document.getElementById( 'cancel-comment-reply-link' );
+cancelClick = cancel.onclick;
+cancel.onclick = function () {
+var cancelReturn = cancelClick.call( this );
+if ( false !== cancelReturn ) {
+return cancelReturn;
+}
+if ( ! comm_par ) {
+return cancelReturn;
+}
+comm_par = 0;
+tellFrameNewParent();
+return cancelReturn;
+};
+}
+if ( comm_par == parentId ) {
+return returnValue;
+}
+comm_par = parentId;
+tellFrameNewParent();
+return returnValue;
+};
+}
+// Do the post message bit after the dom has loaded.
+document.addEventListener( 'DOMContentLoaded', function () {
+var iframe_url = "https:\/\/jetpack.wordpress.com";
+if ( window.postMessage ) {
+if ( document.addEventListener ) {
+window.addEventListener( 'message', function ( event ) {
+var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+return;
+}
+jQuery( frame ).height( event.data );
+});
+} else if ( document.attachEvent ) {
+window.attachEvent( 'message', function ( event ) {
+var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+return;
+}
+jQuery( frame ).height( event.data );
+});
+}
+}
+})
+})();
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201949.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+_stq = window._stq || [];
+_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'116216683',post:'6839',tz:'0',srv:'pt-blog.ru'} ]);
+_stq.push([ 'clickTrackerInit', '116216683', '6839' ]);
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.19135499000549 seconds, on 02-12-19 2:56:39 -->
